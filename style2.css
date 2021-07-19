@@ -1,0 +1,117 @@
+body{
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    margin: 0 auto;
+}
+nav{
+    height: 60px;
+    background: rgba(112, 165, 214, 0.43);
+}
+.logo{
+    padding: 0;
+    width: 80px;
+    height: auto;
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+    float: right;
+    margin-right: 30px;
+}
+nav ul li{
+    position: relative;
+    list-style:none;
+    display: inline-block;
+}
+nav ul li a{
+    display: block;
+    color: rgba(0, 0, 0, 0.72);
+    font: Open Sans Hebrew;
+    padding: 0 45px;
+    text-decoration: none;
+    line-height: 60px;
+}
+
+body{
+    background-image: url(../img/fondo3.jpg);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin:0;
+}
+
+form{
+    width:800px;
+    height: 634px;
+    margin: auto;
+    background: rgba(0,0,0,0.4);
+    padding:10px 35px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+h2{
+    color:#afff;
+    text-align: center;
+    margin:0;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+input, textarea{
+    width: auto;
+    margin-bottom: 20px;
+    padding:7px;
+    box-sizing:border-box;
+    font-size: 17px;
+    border:none;
+    border-radius: 10px;
+}
+
+textarea{
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+}
+.box-p{
+    float: left;
+}
+.box-h{
+    width: 365px;
+}
+#boton{
+    background:#31384A;
+    color:#fff;
+    padding:20px;
+    margin: 0 70px;
+}
+.btn{
+    padding: 20px 400px;
+}
+#boton:hover {
+    cursor:pointer;
+}
+
+#footer{
+    background: rgba(112, 165, 214, 0.43);
+    height: 100px;
+    padding:100px 200px;
+ }
+ 
+ .logo-footer{
+     padding: 10px 100px 20px 10px;
+     width: 200px;
+     height: 150px;
+ }
+ .box1-footer{
+     width: 300px;
+     float: right;
+ 
+ }
+ .box2-footer{
+     width: 300px;
+     float: right;
+ }

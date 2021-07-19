@@ -1,0 +1,20 @@
+body{
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+.inicioR h2{
+    text-align: center;
+}
+.boxR{
+    background: rgba(112, 165, 214, 0.43);
+    border-radius: 30px;
+    margin: 15px 45px;
+    padding: 45px;
+
+}
+#footer{
+    background: rgba(112, 165, 214, 0.43);
+    padding:100px 200px;
+ }
+ 
