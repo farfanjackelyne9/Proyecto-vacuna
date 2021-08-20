@@ -17,4 +17,12 @@ body{
     background: rgba(112, 165, 214, 0.43);
     padding:100px 200px;
  }
- 
+ form{
+    padding: 50px 250px;
+    border: solid;
+    margin: 10px;
+ }
+ button.btn.btn-primary.btn-sm.btn-block {
+    padding: 10px;
+    width: auto;
+}
